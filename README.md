@@ -1,5 +1,4 @@
 ### hi!!!
-- I'm a student currently working on an encryption tool called pfed.
 - You can reach me from <a rel="me" href="https://todon.eu/@baykanguru">Mastodon</a>
 <!--
 **BayKanguru/BayKanguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
